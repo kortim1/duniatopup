@@ -1,0 +1,1 @@
+After pushing to GitHub: import repository into Vercel, set env vars from .env.example, then deploy.

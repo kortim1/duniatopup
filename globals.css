@@ -1,0 +1,9 @@
+:root{--bg:#0f1724;--card:#0b1220;--accent:#4a6cf7}
+body{background:var(--bg);color:#e6eef8;font-family:Inter,Arial;margin:0;padding:0}
+.container{max-width:980px;margin:28px auto;padding:20px}
+.header{background:linear-gradient(90deg,var(--accent),#6c4af7);padding:18px;text-align:center;border-radius:8px}
+.card{background:var(--card);padding:18px;border-radius:12px;box-shadow:0 8px 30px rgba(2,6,23,.6);margin-bottom:14px}
+input,select,button{width:100%;padding:12px;border-radius:8px;border:0;margin-top:10px}
+.button{background:linear-gradient(90deg,var(--accent),#6c4af7);color:#fff;border:none;padding:12px;border-radius:8px;cursor:pointer}
+.msg{margin-top:10px;color:#9fb3ff}
+.rec{padding:8px;border-bottom:1px solid #16202a}
